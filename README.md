@@ -1,12 +1,13 @@
 # Building. Breaking. Learning. Securing.
 
-### Cybersecurity Enthusiast | IoT Engineer | Researcher | Google Student Ambassador 2026
+### Hey there, I'm Varsha Sharma 
 
-Engineering student passionate about secure technology, intelligent systems, and meaningful innovation.
+A curious engineer exploring Cybersecurity, IoT, AI, and the endless possibilities of technology.
 
-I believe great technology isn't just built—it is understood, challenged, improved, and secured.
+From research papers and hackathons to community leadership and open-source learning, I'm on a mission to build secure, meaningful, and impactful solutions.
 
-Welcome to my digital playground, where ideas become projects, challenges become lessons, and curiosity drives everything forward.
+Welcome to my corner of the internet.
+
 
 ---
 
@@ -145,8 +146,6 @@ Whether it's a hackathon, a research project, an open-source contribution, or a 
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views" alt="Profile Views" />
-</p>
+
 
 ### Building • Learning • Securing • Leading
