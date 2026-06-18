@@ -90,15 +90,15 @@ As a Google Student Ambassador 2026, I actively engage in student communities, o
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=varshasharma25&show_icons=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=varshasharma25 alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varshaSharma25&layout=compact" alt="Top Languages" />
 </p>
 
 ---
@@ -106,7 +106,7 @@ As a Google Student Ambassador 2026, I actively engage in student communities, o
 ## Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=varshasharma25" alt="Contribution Graph" />
 </p>
 
 ---
