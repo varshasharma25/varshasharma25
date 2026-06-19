@@ -136,12 +136,6 @@ Whether it's a hackathon, a research project, an open-source contribution, or a 
 
 ## Connect With Me
 
-💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-
-📧 Email: YOUR_EMAIL
-
-🌐 GitHub: https://github.com/YOUR_USERNAME
-
 🤝 Open to collaborations, hackathons, research opportunities, open-source projects, and meaningful tech discussions.
 
 ---
